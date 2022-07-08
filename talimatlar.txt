@@ -1,0 +1,13 @@
+1 - python yuklenecek https://www.python.org/downloads/release/python-3105/
+
+2 - dosyayi zip'ten cikarip terminalde klasore girip python venv acilacak. komutlar sirasiyla:
+python3 -m venv venv
+venv/Scripts/activate
+
+3 - paketler yuklenecek
+pip3 install -r requirements.txt
+
+4 - numaralar.txt doldurulacak orn: 00000000000-99999999999
+
+5 - program calistirilacak komut:
+python main.py
